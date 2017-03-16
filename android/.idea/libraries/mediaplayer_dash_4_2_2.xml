@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="mediaplayer-dash-4.2.2">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/build/intermediates/exploded-aar/net.protyposis.android.mediaplayer/mediaplayer-dash/4.2.2/res" />
+      <root url="jar://$PROJECT_DIR$/build/intermediates/exploded-aar/net.protyposis.android.mediaplayer/mediaplayer-dash/4.2.2/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.protyposis.android.mediaplayer/mediaplayer-dash/4.2.2/1ef5b6b73641d3fbfb57a0303906d1025af756c6/mediaplayer-dash-4.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
